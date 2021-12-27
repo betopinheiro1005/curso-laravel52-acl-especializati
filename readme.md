@@ -1,3 +1,36 @@
+# Curso Laravel 5.2 com ACL
+## EspecializaTi (Carlos Ferreira)
+
+### [Vídeos do cursop](https://www.youtube.com/watch?v=-AVa6GNpEL8&list=PLVSNL1PHDWvTch1r8uTSluw9SkzSA9cDJ)
+
+### Lista de aulas
+
+Aula 01 - Apresentação do curso  
+Aula 02 - Organização do Curso Laravel com ACL  
+Aula 03 - Instalando Laravel e configurando Virtual Host  
+Aula 04 - Auth Laravel  
+Aula 05 - Cadastrando Posts e listando  
+Aula 06 - Iniciando ACL com Laravel  
+Aula 07 - Laravel ACL na View  
+Aula 08 - Definindo políticas de acesso ao sistema  
+Aula 09 - Criando migrations ACL FOR LARGE SYSTEMS  
+Aula 10 - Definindo permissão dinamicamente  
+Aula 11 - Criando lógica de ACL  
+Aula 12 - Mostrar Posts por Perfil  
+Aula 13 - Debug perfis e melhorar código  
+Aula 14 - Definindo Super Admin Sistema  
+Aula 15 - Integrar Layout Login (Curso Laravel com ACL)  
+Aula 16 - Organizar Projeto Para Integrar com Layout (Curso Laravel com ACL)  
+Aula 17 - Relatórios Dashoboard (Curso Laravel com ACL)  
+Aula 18 - Listando os POSTS (Curso Laravel com ACL)  
+Aula 19 - List Permissions Roles (Curso Laravel com ACL)  
+Aula 20 - Show RelationShips System ACL (Curso Laravel com ACL)  
+Aula 21 - Escondendo Menus (Curso Laravel com ACL)  
+Aula 22 - Testes Finais Curso de Laravel com ACL  
+Aula 23 - Final Curso Laravel com ACL  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
