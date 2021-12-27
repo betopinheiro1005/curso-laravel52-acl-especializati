@@ -1,7 +1,7 @@
 # Curso Laravel 5.2 com ACL
 ## EspecializaTi (Carlos Ferreira)
 
-### [Vídeos do cursop](https://www.youtube.com/watch?v=-AVa6GNpEL8&list=PLVSNL1PHDWvTch1r8uTSluw9SkzSA9cDJ)
+### [Vídeos do curso](https://www.youtube.com/watch?v=-AVa6GNpEL8&list=PLVSNL1PHDWvTch1r8uTSluw9SkzSA9cDJ)
 
 ### Lista de aulas
 
