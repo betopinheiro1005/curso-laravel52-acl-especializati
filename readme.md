@@ -1,9 +1,13 @@
 # Curso Laravel 5.2 com ACL
 ## EspecializaTi (Carlos Ferreira)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=-AVa6GNpEL8&list=PLVSNL1PHDWvTch1r8uTSluw9SkzSA9cDJ)
+### Instalação de dependências
 
-### Lista de aulas
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=-AVa6GNpEL8&list=PLVSNL1PHDWvTch1r8uTSluw9SkzSA9cDJ)
 
 Aula 01 - Apresentação do curso  
 Aula 02 - Organização do Curso Laravel com ACL  
